@@ -1,6 +1,7 @@
 body{
     background-color: #1A120B;
     color: #D5CEA3;
+    padding: 5px;
 }
 
 header{
@@ -21,6 +22,6 @@ p {
     text-align: justify;
 }
 
-nav{
-    background-color: #3C2A21;
+.navbar{
+    color: #D5CEA3;
 }
