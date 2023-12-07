@@ -17,3 +17,10 @@ footer{
     font-size: small;
 }
 
+p {
+    text-align: justify;
+}
+
+nav{
+    background-color: #3C2A21;
+}
