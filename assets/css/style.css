@@ -9,6 +9,8 @@ header{
     align-items: center;
     justify-content: center;
     font-size: larger;
+    background-color: #D5CEA3;
+    color: #1A120B;
 }
 
 footer{
@@ -16,12 +18,16 @@ footer{
     align-items: center;
     justify-content: center;
     font-size: small;
+    background-color: #D5CEA3;
+    color: #1A120B;
 }
 
 p {
     text-align: justify;
+    letter-spacing: 2px;
 }
 
-.navbar{
-    color: #D5CEA3;
+nav{
+    background-color: #D5CEA3;
+    color: #1A120B;
 }
